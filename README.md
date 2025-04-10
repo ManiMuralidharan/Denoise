@@ -1,4 +1,6 @@
 # Denoise
+# Author : Muralidharan Mani 
+# Affiliation : University of Wisconsin-Madison
 DenoiseimageMatlab
 this MATLAB code and guide you through using it step-by-step.
 
